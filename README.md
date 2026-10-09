@@ -1,7 +1,11 @@
 # LWS Digital business website
 
-Responsive business website with USD project estimates and direct WhatsApp, email and phone enquiries.
+Public production website for Render static hosting.
 
-Contact: lwsdigital.co.za@gmail.com · +27 66 410 2566.
+Business contacts: lwsdigital.co.za@gmail.com · +27 66 410 2566.
 
-Render deployment and source are being prepared.
+Render settings: build command `python3 build.py`, publish directory `dist`, environment variable `SKIP_INSTALL_DEPS=true`.
+
+The browser files support USD estimates, downloadable quotes, and prepared WhatsApp/email enquiries. Clients select Send in their messaging app to deliver an enquiry.
+
+This deployment package contains public website assets only.
